@@ -9,7 +9,7 @@ It uses the **Open-Meteo API** to fetch real-time weather details and dynamicall
 
 ## 🔗 Live Demo
 
-👉 [**View Live App Here**](https://codesandbox.io/p/github/MadhavAgrawal06/Weather-Now/main)  
+👉 [**View Live App Here**](https://jf2nfw-5173.csb.app/)  
 
 ---
 
