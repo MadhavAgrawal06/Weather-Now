@@ -9,7 +9,7 @@ It uses the **Open-Meteo API** to fetch real-time weather details and dynamicall
 
 ## 🔗 Live Demo
 
-👉 [**View Live App Here**](https://jf2nfw-5173.csb.app/)  
+👉 [**View Live App Here**](https://stackblitz.com/~/github.com/MadhavAgrawal06/Weather-Now)  
 
 ---
 
@@ -39,7 +39,7 @@ Here’s how **Weather Now** looks in action 👇
 - **Styling:** Bootstrap 5 + Custom CSS
 - **API:** Open-Meteo Weather API
 - **Language:** JavaScript (ES6+)
-- **Deployment:** CodeSandbox / Netlify
+- **Deployment:** StackBlitz / Netlify
 
 ---
 
